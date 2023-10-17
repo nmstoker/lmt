@@ -1,7 +1,7 @@
 # lmt
 LMT: Levenshtein Matching Tool - efficiently match lists
 
-**View an online version of the tool hosted on GitHub pages here: https://about.nmstoker.com/lmt.html **
+**View an online version of the tool hosted on GitHub pages here:** https://about.nmstoker.com/lmt.html
 
 ## About this tool
 
